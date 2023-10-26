@@ -11,7 +11,7 @@
 
 ### Tasks
 
-1. Install Git or Github Desktop on your PC
+1. [Install Git or Github Desktop on your PC](#Task1)
 2. Download the website from following url in a directory https://www.free-css.com/free-css-templates/page296/carvilla using linux command.
 3. Make commit of whole data with name "initial commit"
 4. Make remote access of github repository. 
@@ -79,7 +79,8 @@ Generating HTTPS Personal Token:
 
   
 
-### Task1: *Install Git or Github Desktop on your PC*
+### Task1
+
 
 ### Task2: *Download the website from following url in a directory https://www.free-css.com/free-css-templates/page296/carvilla using linux command*
 
