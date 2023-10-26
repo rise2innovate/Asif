@@ -12,7 +12,7 @@
 ### Tasks
 
 1. [Install Git or Github Desktop on your PC](#Task1)
-2. Download the website from following url in a directory https://www.free-css.com/free-css-templates/page296/carvilla using linux command.
+2. [Download the website from following url in a directory https://www.free-css.com/free-css-templates/page296/carvilla using linux command.](#Task2)
 3. Make commit of whole data with name "initial commit"
 4. Make remote access of github repository. 
 5. Now commit this code to github in a reposity in main branch.
