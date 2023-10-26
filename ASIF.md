@@ -17,6 +17,7 @@
 
 1. [Install Git or Github Desktop on your PC](#Task1)
 2. [Download the website from following url in a directory https://www.free-css.com/free-css-templates/page296/carvilla using linux command.](#Task2)
+<<<<<<< HEAD
 3. [Make commit of whole data with name "initial commit"](#Task3)
 4. [Make remote access of github repository.](#Task4) 
 5. [Now commit this code to github in a reposity in main branch.](#Task5)
@@ -27,6 +28,18 @@
 10. [Fork the repository (https://github.com/engineerbaz/DevOps-09-Training/) by clicking on the Fork button on the upper right corner](#Task10)
 11. [Clone the repository of your fork with: git clone https://github.com/YOURLOGIN/DevOps-09-Training (replace YOURLOGIN with your GitHub login)](#Task11)
 12. [Create a file of your Task in Markdown language and upload.](Task12)    
+=======
+3. Make commit of whole data with name "initial commit"
+4. Make remote access of github repository. 
+5. Now commit this code to github in a reposity in main branch.
+6. Add some changes in your websites (stored in your PC , that was downnladed from https://www.free-css.com/free-css-templates/page296/carvilla)
+7. Now again repeat procedure of push to Github so changes can be visible on your repo
+8. Clone repo https://github.com/engineerbaz/docker-file.git in /temp/testRepo
+9. Make a repo of your own name and make two branches in it as `prod` and `dev`
+10. Fork the repository (https://github.com/engineerbaz/DevOps-09-Training/) by clicking on the Fork button on the upper right corner
+11. Clone the repository of your fork with: git clone https://github.com/YOURLOGIN/DevOps-09-Training (replace YOURLOGIN with your GitHub login)
+12. Create a file of your Task in Markdown language and upload.    
+>>>>>>> d3087e68df704f439de92537515a83317dc29c9b
   
 
 ---
@@ -99,7 +112,11 @@ Generating HTTPS Personal Token:
 &nbsp;  
 
 ### Task1
+<<<<<<< HEAD
 *Install Git or Github desktop on your PC.*
+=======
+
+>>>>>>> d3087e68df704f439de92537515a83317dc29c9b
 
 Git bash is already installed on PC.
 
@@ -387,6 +404,7 @@ Creating a Pull Request to the owner of repo:
 
 #### Output:
 
+<<<<<<< HEAD
 ![Creating a Pull Request](./task11f.png)
 
 PR raised:
@@ -403,3 +421,6 @@ PR raised:
 *Create a file of your Task in Markdown language and upload.*
 
 ASIF.md file created and uploaded to Google classroom assignment.
+=======
+![Download website using Linux command](task2.png)
+>>>>>>> d3087e68df704f439de92537515a83317dc29c9b
