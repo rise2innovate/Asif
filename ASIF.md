@@ -50,7 +50,7 @@ Generating SSH Key:
 ```bash
 ssh-keygen -t ed25519 - C "rise2innovate@gmail.com"
 ```
-#### Output:
+**Output:**
 
 ![SSH Key Generation Locally](./PR1.png)
 
@@ -60,7 +60,7 @@ Starting SSH Service manually:
 Get-Service ssh-agent
 ```
 
-#### Output:
+**Output:**
 
 ![Starting SSH service Manually](./PR2.png)
 
@@ -68,7 +68,7 @@ Get-Service ssh-agent
 
 Adding new public key to GitHUB:
 
-#### Output:
+**Output:**
 
 ![Adding SSH Key in Github](./PR3.png)
 
@@ -76,7 +76,7 @@ Adding new public key to GitHUB:
 
 Verification on Github:
 
-#### Output:
+**Output:**
 
 ![Verifying SSH Key in Github](./PR4.png)
 
@@ -85,7 +85,7 @@ Verification on Github:
 
 Generating HTTPS Personal Token:
 
-#### Output:
+**Output:**
 
 ![Personal Access token](./PR5.png)  
 
@@ -117,7 +117,8 @@ Linux command to download a webpage:
 curl -O https://www.free-css.com/free-css-templates/page296/carvilla
 ```
 
-**Output**:
+**Output:**
+
 
 ![Download website using Linux command](./task2.png)
 
@@ -134,7 +135,7 @@ git status
 git commit -m "initial commit"
 ```
 
-**Output**
+**Output:**
 
 ![initial commit on local Git](./Task3.png)
 
@@ -147,7 +148,7 @@ git commit -m "initial commit"
 
 Create a repo on Github:
 
-#### Output:
+**Output:**
 
 ![Download website using Linux command](./Task4a.png)
 
@@ -169,7 +170,7 @@ Validate if the remote repo is now visible:
 ```bash
 git remote -v
 ```
-#### Output:
+**Output:**
 
 ![Connecting to remote repo](./Task4b.png)
 
@@ -192,7 +193,7 @@ Pushing the code to Github in the remote repository in main branch:
 git push -u origin main
 ```
 
-#### Output:
+**Output:**
 
 
 ![Pushing code to Github](./Task5a.png)
@@ -212,7 +213,7 @@ Verifiying the push at Github repo:
 
 
 Modified the file using VS code:
-#### Output:
+**Output:**
 
 ![Perform modification on file](./Task6a.png)
 
@@ -223,7 +224,7 @@ git add .
 git commit -m "carvilla file changed"
 ```
 
-#### Output:
+**Output:**
 
 ![Commit changes locally](./Task6b.png)
 
@@ -241,7 +242,7 @@ git remote -v
 git push origin main
 ```
 
-#### Output:
+**Output:**
 
 ![Pushing commit to Github](./Task7a.png)
 
@@ -263,7 +264,7 @@ mkdir /e/git/temp
 git clone https://github.com/eigineerbaz/docker-file.git /e/git/temp/testRepo
 ```
 
-#### Output:
+**Output:**
 
 ![Cloning remote repo to local directory](./Task8a.png)
 
@@ -287,7 +288,7 @@ git commit -m "first commit"
 git status
 ```
 
-#### Output:
+**Output:**
 
 ![Initiating new local repo with first commit](./Task9a.png)
 
@@ -303,7 +304,7 @@ git checkout prod
 git brnach
 ```
 
-#### Output:
+**Output:**
 
 ![New branching](./Task9b.png)
 
@@ -315,7 +316,7 @@ git brnach
 *Fork the repository (https://github.com/engineerbaz/DevOps-09-Training/) by clicking on the Fork button on the upper right corner*
 
 
-#### Output:
+**Output:**
 
 ![Forking the public repo](./Task10.png)
 
@@ -334,7 +335,7 @@ git status
 git add .
 ```
 
-#### Output:
+**Output:**
 
 ![Initiating a new Repo locally](./Task11a.png)
 
@@ -345,7 +346,7 @@ git remote add https://github.com/rise2innovate/DevOps9thBatch.git
 git remote -v 
 ```
 
-#### Output:
+**Output:**
 
 ![Connecting remote repo](./Task11b.png)
 
@@ -357,7 +358,7 @@ git clone https://github.com/rise2innovate/DevOps9thBatch.git
 ls -al
 ```
 
-#### Output:
+**Output:**
 
 ![Cloning the remote repo](./Task11c.png)
 
@@ -372,14 +373,14 @@ git push -u origin main
 
 ```
 
-#### Output:
+**Output:**
 
 ![Push to Github](./Task11d.png)
 
 
 Verifying changes on Github:
 
-#### Output:
+**Output:**
 
 ![Github status check](./Task11e.png)
 
@@ -387,14 +388,14 @@ Verifying changes on Github:
 Creating a Pull Request to the owner of repo:
 
 
-#### Output:
+**Output:**
 
 
 ![Creating a Pull Request](./Task11f.png)
 
 PR raised:
 
-#### Output:
+**Output:**
 
 ![Pull Request raised](./Task11g.png)
 
@@ -405,5 +406,4 @@ PR raised:
 ### Task12
 *Create a file of your Task in Markdown language and upload.*
 
-ASIF.md file created and uploaded to Google classroom assignment.
-
+[ASIF.md](https://github.com/rise2innovate/Asif/blob/main/ASIF.md) file created and uploaded to Google classroom assignment.
