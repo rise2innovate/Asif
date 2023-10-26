@@ -90,7 +90,6 @@ Generating HTTPS Personal Token:
 ![Personal Access token](./PR5.png)  
 
 &nbsp;
-&nbsp;
 ---
 &nbsp;
 &nbsp;
@@ -98,6 +97,8 @@ Generating HTTPS Personal Token:
 &nbsp;
 &nbsp;  
 
+
+___
 ### Task1
 *Install Git or Github desktop on your PC.*
 
@@ -116,7 +117,7 @@ Linux command to download a webpage:
 curl -O https://www.free-css.com/free-css-templates/page296/carvilla
 ```
 
-#### Output:
+**Output**:
 
 ![Download website using Linux command](./task2.png)
 
@@ -133,7 +134,7 @@ git status
 git commit -m "initial commit"
 ```
 
-#### Output:
+**Output**
 
 ![initial commit on local Git](./Task3.png)
 
@@ -148,7 +149,7 @@ Create a repo on Github:
 
 #### Output:
 
-![Download website using Linux command](./task4a.png)
+![Download website using Linux command](./Task4a.png)
 
 
 Check if any other remote repo is connected:
@@ -170,7 +171,7 @@ git remote -v
 ```
 #### Output:
 
-![Connecting to remote repo](./task4b.png)
+![Connecting to remote repo](./Task4b.png)
 
 
 ---
@@ -194,12 +195,12 @@ git push -u origin main
 #### Output:
 
 
-![Pushing code to Github](./task5a.png)
+![Pushing code to Github](./Task5a.png)
 
 
 Verifiying the push at Github repo:
 
-![Verification on Github](./task5b.png)
+![Verification on Github](./Task5b.png)
 
 
 ---
@@ -213,7 +214,7 @@ Verifiying the push at Github repo:
 Modified the file using VS code:
 #### Output:
 
-![Perform modification on file](./task6a.png)
+![Perform modification on file](./Task6a.png)
 
 Commit the file changes locally:
 
@@ -224,7 +225,7 @@ git commit -m "carvilla file changed"
 
 #### Output:
 
-![Commit changes locally](./task6b.png)
+![Commit changes locally](./Task6b.png)
 
 
 ---
@@ -242,12 +243,12 @@ git push origin main
 
 #### Output:
 
-![Pushing commit to Github](./task7a.png)
+![Pushing commit to Github](./Task7a.png)
 
 
 Verifying the changes on Github:
 
-![Changes verification on Github](./task7b.png)
+![Changes verification on Github](./Task7b.png)
 
 
 ---
@@ -264,10 +265,10 @@ git clone https://github.com/eigineerbaz/docker-file.git /e/git/temp/testRepo
 
 #### Output:
 
-![Cloning remote repo to local directory](./task8a.png)
+![Cloning remote repo to local directory](./Task8a.png)
 
 
-![Verifying the clone repo in local directory](./task8b.png)
+![Verifying the clone repo in local directory](./Task8b.png)
 
 
 
@@ -288,7 +289,7 @@ git status
 
 #### Output:
 
-![Initiating new local repo with first commit](./task9a.png)
+![Initiating new local repo with first commit](./Task9a.png)
 
  Creating branches, verifying and switches between them:
 
@@ -304,7 +305,7 @@ git brnach
 
 #### Output:
 
-![New branching](./task9b.png)
+![New branching](./Task9b.png)
 
 
 ---
@@ -316,7 +317,7 @@ git brnach
 
 #### Output:
 
-![Forking the public repo](./task10.png)
+![Forking the public repo](./Task10.png)
 
 
 ---
@@ -335,7 +336,7 @@ git add .
 
 #### Output:
 
-![Initiating a new Repo locally](./task11a.png)
+![Initiating a new Repo locally](./Task11a.png)
 
 Connecting remote repo that was forked from other user:
 
@@ -346,7 +347,7 @@ git remote -v
 
 #### Output:
 
-![Connecting remote repo](./task11b.png)
+![Connecting remote repo](./Task11b.png)
 
 
 Cloning the remote repo:
@@ -358,7 +359,7 @@ ls -al
 
 #### Output:
 
-![Cloning the remote repo](./task11c.png)
+![Cloning the remote repo](./Task11c.png)
 
 
 Pushing changes to Github:
@@ -373,14 +374,14 @@ git push -u origin main
 
 #### Output:
 
-![Push to Github](./task11d.png)
+![Push to Github](./Task11d.png)
 
 
 Verifying changes on Github:
 
 #### Output:
 
-![Github status check](./task11e.png)
+![Github status check](./Task11e.png)
 
 
 Creating a Pull Request to the owner of repo:
@@ -389,13 +390,13 @@ Creating a Pull Request to the owner of repo:
 #### Output:
 
 
-![Creating a Pull Request](./task11f.png)
+![Creating a Pull Request](./Task11f.png)
 
 PR raised:
 
 #### Output:
 
-![Pull Request raised](./task11g.png)
+![Pull Request raised](./Task11g.png)
 
 
 ---
