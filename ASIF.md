@@ -221,15 +221,38 @@ git clone https://github.com/eigineerbaz/docker-file.git /e/git/temp/testRepo
 
 
 
-### Task9: *Make a repo of your own name and make two branches in it as `prod` and `dev`*
+### Task9: *Make a repo of your own name and make two branches in it as `prod` and 
+`dev`*
+
+Initiating a new local repo named "Asif":
 
 ```bash
-
+git init
+git add .
+git commit -m "first commit"
+git status
 ```
 
 #### Output:
 
-![Download website using Linux command](task2.png)
+![Initiating new local repo with first commit](task9a.png)
+
+ Creating branches, verifying and switches to them:
+
+
+```bash
+git branch
+git branch prod
+git branch dev
+git branch
+git checkout prod
+git brnach
+```
+
+#### Output:
+
+![New branching](task9b.png)
+
 
 
 ### Task10: *Fork the repository (https://github.com/engineerbaz/DevOps-09-Training/) by clicking on the Fork button on the upper right corner*
